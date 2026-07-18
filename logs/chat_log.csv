@@ -1,0 +1,8 @@
+timestamp,user_input,bot_response,confidence_score
+2026-07-18 17:48:45,hi,Hello! I am your Student Support Assistant. How can I help you today?,1.0
+2026-07-18 17:48:45,How can I apply for admission?,You can apply online through the official college admission portal by filling the application form and uploading the required documents.,0.832
+2026-07-18 17:48:45,wat is da libary timing,"Yes, during examination periods, class timings are usually reduced or rescheduled to accommodate exam sessions.",0.389
+2026-07-18 17:48:45,when do placements start,"Regular classes typically start at 9:00 AM with the first period, followed by short breaks between periods.",0.412
+2026-07-18 17:48:45,Can I get a scholarship for SC ST students?,"Yes, government scholarships for SC, ST, and OBC students are available and can be applied through the National Scholarship Portal.",0.476
+2026-07-18 17:48:45,how is the weather today,"Sorry, I couldn't find an answer. Please contact the Student Support Office.",0.0
+2026-07-18 17:48:45,bye,Thank you for using the Student Support Chatbot. Goodbye! Have a great day.,1.0

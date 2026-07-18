@@ -1,0 +1,51 @@
+timestamp,user_input,bot_response,confidence_score
+2026-07-18 17:48:45,hi,Hello! I am your Student Support Assistant. How can I help you today?,1.0
+2026-07-18 17:48:45,How can I apply for admission?,You can apply online through the official college admission portal by filling the application form and uploading the required documents.,0.832
+2026-07-18 17:48:45,wat is da libary timing,"Yes, during examination periods, class timings are usually reduced or rescheduled to accommodate exam sessions.",0.389
+2026-07-18 17:48:45,when do placements start,"Regular classes typically start at 9:00 AM with the first period, followed by short breaks between periods.",0.412
+2026-07-18 17:48:45,Can I get a scholarship for SC ST students?,"Yes, government scholarships for SC, ST, and OBC students are available and can be applied through the National Scholarship Portal.",0.476
+2026-07-18 17:48:45,how is the weather today,"Sorry, I couldn't find an answer. Please contact the Student Support Office.",0.0
+2026-07-18 17:48:45,bye,Thank you for using the Student Support Chatbot. Goodbye! Have a great day.,1.0
+2026-07-18 23:49:26,hi,Hello! I am your Student Support Assistant. How can I help you today?,1.0
+2026-07-18 23:49:26,How can I apply for admission?,You can apply online through the official college admission portal by filling the application form and uploading the required documents.,0.832
+2026-07-18 23:49:26,wat is da libary timing,"Yes, during examination periods, class timings are usually reduced or rescheduled to accommodate exam sessions.",0.389
+2026-07-18 23:49:26,when do placements start,"Regular classes typically start at 9:00 AM with the first period, followed by short breaks between periods.",0.412
+2026-07-18 23:49:26,Can I get a scholarship for SC ST students?,"Yes, government scholarships for SC, ST, and OBC students are available and can be applied through the National Scholarship Portal.",0.476
+2026-07-18 23:49:26,how is the weather today,"Sorry, I couldn't find an answer. Please contact the Student Support Office.",0.0
+2026-07-18 23:49:26,bye,Thank you for using the Student Support Chatbot. Goodbye! Have a great day.,1.0
+2026-07-18 23:59:32,hi,Hello! I am your Student Support Assistant. How can I help you today?,1.0
+2026-07-19 00:00:08,can you help me with my home work,"Yes, the Training and Placement Cell also facilitates summer and winter internships with partner companies.",0.452
+2026-07-19 00:01:04,what batches are offered in btech,"The college offers B.Tech in Computer Science, Information Technology, Electronics, Mechanical, Civil, and Electrical Engineering.",1.0
+2026-07-19 00:12:37,hi,Hello! I am your Student Support Assistant. How can I help you today?,1.0
+2026-07-19 00:12:37,How can I apply for admission?,You can apply online through the official college admission portal by filling the application form and uploading the required documents.,0.832
+2026-07-19 00:12:37,wat is da libary timing,"Yes, during examination periods, class timings are usually reduced or rescheduled to accommodate exam sessions.",0.389
+2026-07-19 00:12:37,when do placements start,"Regular classes typically start at 9:00 AM with the first period, followed by short breaks between periods.",0.412
+2026-07-19 00:12:37,Can I get a scholarship for SC ST students?,"Yes, government scholarships for SC, ST, and OBC students are available and can be applied through the National Scholarship Portal.",0.476
+2026-07-19 00:12:37,how is the weather today,"Sorry, I couldn't find an answer. Please contact the Student Support Office.",0.0
+2026-07-19 00:12:37,bye,Thank you for using the Student Support Chatbot. Goodbye! Have a great day.,1.0
+2026-07-19 00:12:51,hello,Hello! I am your Student Support Assistant. How can I help you today?,1.0
+2026-07-19 00:13:12,how can i take admission in this college,You can apply online through the official college admission portal by filling the application form and uploading the required documents.,0.549
+2026-07-19 00:14:05,how can i get scholorship,You can contact the Scholarship Cell or the Dean of Student Welfare office for any scholarship-related queries.,0.375
+2026-07-19 00:14:55,what is the placement ratio in the college,"Yes, the college conducts aptitude tests, mock interviews, group discussions, and resume-building workshops before placement season.",0.614
+2026-07-19 00:16:08,what is the passing criteria for a subject,Students generally need to score at least 40% marks in both internal and external examinations to pass a subject.,1.0
+2026-07-19 00:16:25,are the exams difficult,Semester exams are usually conducted at the end of each semester as per the academic calendar published by the college.,0.504
+2026-07-19 00:16:48,exit,Thank you for using the Student Support Chatbot. Goodbye! Have a great day.,1.0
+2026-07-19 00:16:48,hi,Hello! I am your Student Support Assistant. How can I help you today?,1.0
+2026-07-19 00:16:48,How can I apply for admission?,You can apply online through the official college admission portal by filling the application form and uploading the required documents.,0.832
+2026-07-19 00:16:48,wat is da libary timing,"Yes, during examination periods, class timings are usually reduced or rescheduled to accommodate exam sessions.",0.389
+2026-07-19 00:16:48,when do placements start,"Regular classes typically start at 9:00 AM with the first period, followed by short breaks between periods.",0.412
+2026-07-19 00:16:48,Can I get a scholarship for SC ST students?,"Yes, government scholarships for SC, ST, and OBC students are available and can be applied through the National Scholarship Portal.",0.476
+2026-07-19 00:16:48,how is the weather today,"Sorry, I couldn't find an answer. Please contact the Student Support Office.",0.0
+2026-07-19 00:16:48,bye,Thank you for using the Student Support Chatbot. Goodbye! Have a great day.,1.0
+2026-07-19 00:59:16,hi,Hello! I am your Student Support Assistant. How can I help you today?,1.0
+2026-07-19 00:59:37,how to take admission in the college,You can apply online through the official college admission portal by filling the application form and uploading the required documents.,0.549
+2026-07-19 00:59:51,do they provide placement support,"Yes, the college conducts aptitude tests, mock interviews, group discussions, and resume-building workshops before placement season.",0.596
+2026-07-19 01:00:14,do faculties help the students,"Hostels provide furnished rooms, Wi-Fi, mess facilities, laundry, 24/7 security, and common recreation rooms.",0.438
+2026-07-19 01:00:26,exit,Thank you for using the Student Support Chatbot. Goodbye! Have a great day.,1.0
+2026-07-19 01:00:26,hi,Hello! I am your Student Support Assistant. How can I help you today?,1.0
+2026-07-19 01:00:26,How can I apply for admission?,You can apply online through the official college admission portal by filling the application form and uploading the required documents.,0.832
+2026-07-19 01:00:26,wat is da libary timing,"Yes, during examination periods, class timings are usually reduced or rescheduled to accommodate exam sessions.",0.389
+2026-07-19 01:00:26,when do placements start,"Regular classes typically start at 9:00 AM with the first period, followed by short breaks between periods.",0.412
+2026-07-19 01:00:26,Can I get a scholarship for SC ST students?,"Yes, government scholarships for SC, ST, and OBC students are available and can be applied through the National Scholarship Portal.",0.476
+2026-07-19 01:00:26,how is the weather today,"Sorry, I couldn't find an answer. Please contact the Student Support Office.",0.0
+2026-07-19 01:00:26,bye,Thank you for using the Student Support Chatbot. Goodbye! Have a great day.,1.0
